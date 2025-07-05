@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "IMG_1566.png"
   name             : "Benjamin Mudrak"
   pronouns         : "he/him"
   bio              : "Math PhD Candidate at Purdue University"
