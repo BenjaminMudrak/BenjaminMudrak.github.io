@@ -9,9 +9,9 @@ redirect_from:
 
 Hello! Welcome to my website!
 
-I am currently a Mathematics Ph.D. Candidate at Purdue University. My advisor is Bernd Ulrich.
+I am currently a Mathematics Ph.D. Candidate at Purdue University. My advisor is Professor Bernd Ulrich.
 
-My main research interest is commutative algebra. Specifically, I am interested in Liaison and Gorenstein-Liaison theory, as well as combinatorial commutative algebra and related fields.
+My main research interest is commutative algebra. Specifically, I am interested in Liaison and Gorenstein-Liaison theory, as well as combinatorial commutative algebra and related topics.
 
 
 ------
