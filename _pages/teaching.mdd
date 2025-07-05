@@ -1,8 +1,4 @@
----
-layout: archive
-title: "Teaching"
-permalink: /teaching/
-author_profile: true
+# Teaching
 ---
 In recent years, I have been fortunate enough to have a variety of teaching experiences. Here is a summary:
 
@@ -16,11 +12,3 @@ In recent years, I have been fortunate enough to have a variety of teaching expe
                                                          **Grader:**
                               Linear Algebra (MA 511) – Purdue University (Summer 2023, Spring 2025)
                                   Commutative Algebra (MA 557) – Purdue University (Fall 2024)
-
-
-
-{% include base_path %}
-
-{% for post in site.teaching reversed %}
-  {% include archive-single.html %}
-{% endfor %}
