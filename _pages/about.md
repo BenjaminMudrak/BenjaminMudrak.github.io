@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! Welcome to my website!
+Hello! My name is Ben! Welcome to my website!
 
 I am currently a Mathematics Ph.D. Candidate at Purdue University. My advisor is Professor Bernd Ulrich.
 
