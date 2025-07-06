@@ -23,13 +23,10 @@ Relevant Talks
 
 * Purdue Student Colloquium
   * “On Gorenstein Liaison” – Spring 2025
-
-Publications
-======
-On Estimating Recommendation Evaluation Metrics under Sampling. Jin, R., Li, D., Mudrak, B., Gao, J., & Liu, Z. (2021). Proceedings of the AAAI Conference on Artificial Intelligence
   
 Service
 ======
+* Math Department Grad Rep - Purdue University (Summer 2025 - Spring 2026) 
 * Student Commutative Algebra Seminar Organizer – Purdue University (Fall 2025 – Spring 2026)
 * Bridge to Research Seminar Organizer – Purdue University (Fall 2025 – Spring 2026)
 * Graduate Student Representative – Purdue University (Summer 2025 – Spring 2026)
