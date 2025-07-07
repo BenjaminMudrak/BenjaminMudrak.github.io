@@ -9,7 +9,7 @@ redirect_from:
 
 Hello! My name is Ben! Welcome to my website!
 
-I am currently a Mathematics Ph.D. Candidate at Purdue University. My advisor is Professor Bernd Ulrich.
+I am currently a Mathematics Ph.D. Candidate at Purdue University. My advisor is Professor [Bernd Ulrich.](https://www.math.purdue.edu/~bulrich/)
 
 My main research interest is commutative algebra. Specifically, I am interested in Liaison and Gorenstein-Liaison theory, as well as combinatorial commutative algebra and related topics. When not doing math, I spend most of my time developing (and implementing) new and exciting ways to annoy my cat, Calliope.
 
