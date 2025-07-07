@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+**Full CV Available Upon Request**
+
 Education
 ======
 * **Ph.D in Mathematics** Purdue University; Advisor: Bernd Ulrich (In Progress)
@@ -46,7 +48,7 @@ Teaching
   * Linear Algebra (MA 511) – Purdue University (Summer 2023, Spring 2025)
   * Commutative Algebra (MA 557) – Purdue University (Fall 2024)
   
-Relevant Graduate Coursework Programming Languages
+Relevant Graduate Coursework
 ======
 * **Purdue University**
   * Introduction to Differential Geometry and Topology (MA 562)
