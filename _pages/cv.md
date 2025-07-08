@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* **Ph.D in Mathematics** Purdue University; Advisor: Bernd Ulrich (In Progress)
-* **B.S. in Mathematics**, Kent State University, (Spring 2021)
+* **Ph.D in Mathematics**, Purdue University; Advisor: Bernd Ulrich (In Progress)
+* **B.S. in Mathematics**, Kent State University (Spring 2021)
 
 Relevant Talks
 ======
@@ -21,17 +21,21 @@ Relevant Talks
   * “Stanley Reisner Ideals and Polarization” – Spring 2025
   * “Linkage and Residual Intersections” – Fall 2024
 
-* Purdue Student Colloquium
+* **Purdue Student Colloquium**
   * “On Gorenstein Liaison” – Spring 2025
-  
-Service
+
+Conferences/Workshops
 ======
-* Math Department Grad Rep - Purdue University (Summer 2025 - Spring 2026) 
-* Student Commutative Algebra Seminar Organizer – Purdue University (Fall 2025 – Spring 2026)
-* Bridge to Research Seminar Organizer – Purdue University (Fall 2025 – Spring 2026)
-* Student Colloquium Organizer – Purdue University (Fall 2024 – Spring 2025)
-* Graduate Student Government Senator – Purdue University (Spring 2022)
-  
+* Macaulay2 Workshop: Madison 2025 – University of Wisconsin, Madison (Summer 2025)
+* Séminaire de Mathématiques Supérieures (SMS) 2025: An Introduction to Recent Trends in Commutative Algebra – Fields Institute, University of Toronto (Summer 2025)
+* Arkansas Spring Lecture Series: Linkage, Residual Intersections and Applications – University of Arkansas (Spring 2025)
+* Algebra Across Time (Conference in Honor of Bill Heinzer) – Purdue University (Spring 2025)
+* Conference on Commutative Algebra and its Interaction with Algebraic Geometry and Algebraic Combinatorics (UWE Fest) – University of Notre Dame (Fall 2024)
+* Micro Teaching in Applied Calculus Workshop – Purdue University (Spring 2022)
+* Getting Ready to Teach Your Own Class Workshop – Purdue University (Spring 2022)
+* Matrix Analysis REU – College of William & Mary (Summer 2020)
+* MAA MathFest Cincinnati – Cincinnati, Ohio (Summer 2019)
+
 Teaching
 ======
 * **Instructor of Record**
@@ -44,7 +48,15 @@ Teaching
 * **Grader**
   * Linear Algebra (MA 511) – Purdue University (Summer 2023, Spring 2025)
   * Commutative Algebra (MA 557) – Purdue University (Fall 2024)
-  
+
+Service
+======
+* Math Department Grad Rep - Purdue University (Summer 2025 - Spring 2026) 
+* Student Commutative Algebra Seminar Organizer – Purdue University (Fall 2025 – Spring 2026)
+* Bridge to Research Seminar Organizer – Purdue University (Fall 2025 – Spring 2026)
+* Student Colloquium Organizer – Purdue University (Fall 2024 – Spring 2025)
+* Graduate Student Government Senator – Purdue University (Spring 2022)
+
 Relevant Graduate Coursework
 ======
 * **Purdue University**
