@@ -29,7 +29,6 @@ Service
 * Math Department Grad Rep - Purdue University (Summer 2025 - Spring 2026) 
 * Student Commutative Algebra Seminar Organizer – Purdue University (Fall 2025 – Spring 2026)
 * Bridge to Research Seminar Organizer – Purdue University (Fall 2025 – Spring 2026)
-* Graduate Student Representative – Purdue University (Summer 2025 – Spring 2026)
 * Student Colloquium Organizer – Purdue University (Fall 2024 – Spring 2025)
 * Graduate Student Government Senator – Purdue University (Spring 2022)
   
