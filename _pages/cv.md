@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Full CV Available Upon Request"
+title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
