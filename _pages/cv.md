@@ -12,7 +12,18 @@ redirect_from:
 Education
 ======
 * **Ph.D in Mathematics**, Purdue University; Advisor: Bernd Ulrich (In Progress)
-* **B.S. in Mathematics**, Kent State University (Spring 2021)
+* **B.S. in Mathematics**, Kent State University
+
+Publications
+======
+Cp-Mackey Functors in Macaulay2. Brazelton, T., Chan, D., Mudrak, B., Spitz, B., Vogeli, C., Wang, C., Zeng, M., Zotine, S. (submitted).
+
+Multiplicity lists by diameter: All trees of diameter < 7. Charles R. Johnson., Benjamin Mudrak., Carlos M. Saiago. (October 2025). Linear Algebra and its Applications.
+
+On Estimating Recommendation Evaluation Metrics under Sampling. Jin, R., Li, D., Mudrak, B., Gao, J., & Liu, Z. (2021). Proceedings of the AAAI Conference on Artificial Intelligence.
+
+
+
 
 Relevant Talks
 ======
