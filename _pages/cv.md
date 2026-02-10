@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* **Ph.D in Mathematics**, Purdue University; Advisor: Bernd Ulrich (In Progress)
+* **Ph.D. in Mathematics**, Purdue University; Advisor: Bernd Ulrich (In Progress)
 * **B.S. in Mathematics**, Kent State University
 
 Publications
