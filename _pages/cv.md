@@ -33,8 +33,9 @@ Relevant Talks
   * <em>Linkage and Residual Intersections</em> – Fall 2024
 
 * **Purdue Student Colloquium**
-  * <em>On Gorenstein Liaison</em> – Spring 2025
   * <em>Graded Algebraic Betti Numbers</em> - Spring 2026
+  * <em>On Gorenstein Liaison</em> – Spring 2025
+  
 
 Teaching
 ======
