@@ -11,7 +11,7 @@ Hello! My name is Ben! Welcome to my website!
 
 I am currently a Mathematics Ph.D. Candidate at Purdue University. My advisor is Professor [Bernd Ulrich.](https://www.math.purdue.edu/~bulrich/)
 
-My main research interest is commutative algebra. Specifically, I am interested in Liaison and Gorenstein-Liaison theory, as well as combinatorial commutative algebra and related topics. When not doing math, I spend most of my time developing (and implementing) new and exciting ways to annoy my cat, Calliope.
+My main research interest is commutative algebra. Specifically, I am interested in Linkage and Gorenstein-Linkage theory, as well as combinatorial commutative algebra and related topics. When not doing math, I spend most of my time developing (and implementing) new and exciting ways to annoy my cat, Calliope.
 
 This (2025/2026) academic year, I'm one of the Purdue Math Department Grad Reps! More information, along with upcoming department events, can be found here: [Purdue Grad Reps.](https://sites.google.com/site/pumareps/) I am also co-organizing [Ideal Conversations](https://sites.google.com/view/ideal-conversations/home) (the Purdue Student Commutative Algebra Seminar) and the Purdue Bridge to Research Seminar. Information about Purdue math seminars can be found here: [Purdue Math Seminars](https://sites.google.com/site/pumareps/seminars). 
 
