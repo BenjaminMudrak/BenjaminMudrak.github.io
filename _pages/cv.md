@@ -14,7 +14,7 @@ Education
 * **Ph.D. in Mathematics**, Purdue University; Advisor: Bernd Ulrich (In Progress)
 * **B.S. in Mathematics**, Kent State University
 
-Publications
+Publications and Preprints
 ======
 <em>On Zero-Dimensional Glicci Monomial Ideals.</em> **B. Mudrak**. (Submitted. Available on arXiv). 
 
