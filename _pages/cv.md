@@ -44,6 +44,7 @@ Teaching
   * Math as a Profession and a Discipline (MA 108) - Purdue University (Fall 2025)
     
 * **Teaching Assistant**
+  * Quantitative Reasoning (MA 1555) - Purdue University (Spring 2026)
   * Calculus 2 (MA 162) – Purdue University (Fall 2021, Spring 2022)
   * Linear Algebra and ODEs (MA 262) – Purdue University (Fall 2022, Spring 2023)
 
