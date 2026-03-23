@@ -16,13 +16,13 @@ Education
 
 Publications and Preprints
 ======
-<em>On Zero-Dimensional Glicci Monomial Ideals.</em> **B. Mudrak**. (Submitted. Available on arXiv). 
+**On Zero-Dimensional Glicci Monomial Ideals.** **B. Mudrak**. (Submitted. Available on arXiv). 
 
-<em>Cp-Mackey Functors in Macaulay2.</em> T. Brazelton, D. Chan, **B. Mudrak**, B. Spitz, C. Vogeli, C. Wang, M. Zeng, S. Zotine. (Submitted. Available on arXiv).
+**Cp-Mackey Functors in Macaulay2.** T. Brazelton, D. Chan, **B. Mudrak**, B. Spitz, C. Vogeli, C. Wang, M. Zeng, S. Zotine. <em>Journal of Software for Algebra and Geometry,</em> to appear.
 
-<em>Multiplicity lists by diameter: All trees of diameter < 7.</em> C. R. Johnson, **B. Mudrak**, C. M. Saiago. (October 2025). Linear Algebra and its Applications.
+**Multiplicity lists by diameter: All trees of diameter < 7.** C. R. Johnson, **B. Mudrak**, C. M. Saiago. <em>Linear Algebra and its Applications</em> (2025).
 
-<em>On Estimating Recommendation Evaluation Metrics under Sampling.</em> R. Jin, D. Li, **B. Mudrak**, J. Gao, Z. Liu, (2021). Proceedings of the AAAI Conference on Artificial Intelligence.
+**On Estimating Recommendation Evaluation Metrics under Sampling.** R. Jin, D. Li, **B. Mudrak**, J. Gao, Z. Liu. <em>Proceedings of the AAAI Conference on Artificial Intelligence</em> (2021).
 
 Relevant Talks
 ======
