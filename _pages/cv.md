@@ -27,7 +27,7 @@ Publications and Preprints
 Relevant Talks
 ======
 * **Purdue Student Commutative Algebra Seminar:**
-  * <em>Licci and Glicci Monomial Ideals</em> - Spring 2026
+  * <em>Licci and Glicci Monomial Ideals</em> - Fall 2026
   * <em>Canonical Modules and their Traces</em> – Spring 2025
   * <em>Stanley Reisner Ideals and Polarization</em> – Spring 2025
   * <em>Linkage and Residual Intersections</em> – Fall 2024
