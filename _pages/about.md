@@ -11,13 +11,13 @@ Hello! My name is Ben! Welcome to my website!
 
 I am currently a Mathematics Ph.D. Candidate at Purdue University. My advisor is Professor [Bernd Ulrich.](https://www.math.purdue.edu/~bulrich/)
 
-My main research interest is in commutative algebra and algebraic geometry. Specifically, I am interested in linkage and Gorenstein-linkage theory, as well as combinatorial commutative algebra and related topics. When not doing math, I spend most of my time developing (and implementing) new and exciting ways to annoy my cat, Calliope.
+My main research interest is in commutative algebra and algebraic geometry. Specifically, I enjoy studying linkage and G-linkage, combinatorial commutative algebra, and related topics. When not doing math, I spend most of my time developing (and implementing) new and exciting ways to annoy my cat, Calliope.
 
 This (2025/2026) academic year, I'm one of the Purdue Math Department Grad Reps! More information, along with upcoming department events, can be found here: [Purdue Grad Reps.](https://sites.google.com/site/pumareps/) I am also co-organizing [Ideal Conversations](https://sites.google.com/view/ideal-conversations/home) (the Purdue Student Commutative Algebra Seminar) and the Purdue Bridge to Research Seminar. Information about Purdue math seminars can be found here: [Purdue Math Seminars](https://sites.google.com/site/pumareps/seminars). 
 
 During Spring 2026, I will be teaching Quantitative Reasoning (MA 15555). If you are a student in this class, all relevant information and important course-communications may be found on the course's Brightspace page. 
 
-If you are a new/potential math grad student at Purdue and have any questions about the department (or are interested in talking math) feel free to reach out! My contact information can be found on this page.
+If you are interested in talking math, feel free to reach out! My contact information can be found on this page.
 
 ------
 
