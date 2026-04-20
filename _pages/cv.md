@@ -27,7 +27,7 @@ Publications and Preprints
 Relevant Talks
 ======
 * **AMS Special Session: <em>Combinatorial and Positive Characteristic Techniques in Commutative Algebra</em>, NDSU 2026**
-  * <em>On Zero-Dimensional Glicci Monomial Ideal</em>
+  * <em>On Zero-Dimensional Glicci Monomial Ideals</em>
 * **Purdue Student Commutative Algebra Seminar:**
   * <em>Licci and Glicci Monomial Ideals</em> - Fall 2026
   * <em>Canonical Modules and their Traces</em> – Spring 2025
