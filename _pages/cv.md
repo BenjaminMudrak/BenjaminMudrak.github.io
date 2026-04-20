@@ -74,6 +74,7 @@ Service
 
 Conferences & Workshops
 ======
+* AMS Sectional: Special Session on Combinatorial and Positive Characteristic Methods in Commutative Algebra - North Dakota State University (Spring 2026)
 * KUMUNU 2025 - University of Missouri (Fall 2025)
 * Macaulay2 Workshop: Madison 2025 – University of Wisconsin, Madison (Summer 2025)
 * Séminaire de Mathématiques Supérieures (SMS) 2025: An Introduction to Recent Trends in Commutative Algebra – Fields Institute, University of Toronto (Summer 2025)
