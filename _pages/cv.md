@@ -27,26 +27,26 @@ Publications and Preprints
 Relevant Talks
 ======
 * **Commutative Algebra and Algebraic Geometry in Milan. Poster Session, 2026** (upcoming)
-  * Title: <em>Linkage and the Watanabe–Yoshida conjecture</em> - Summer 2026
+  * Title: <em>Linkage and the Watanabe–Yoshida conjecture</em> (Summer 2026)
 * **PASCA 2.0 Poster Session, CIMAT 2026**
-  * Title: <em>On Zero-Dimensional Glicci Monomial Ideals </em> - Spring 2026
+  * Title: <em>On Zero-Dimensional Glicci Monomial Ideals </em> (Spring 2026)
 * **AMS Special Session: <em>Combinatorial and Positive Characteristic Techniques in Commutative Algebra</em>, NDSU 2026**
-  * Title: <em>On Zero-Dimensional Glicci Monomial Ideals</em> - Spring 2026
+  * Title: <em>On Zero-Dimensional Glicci Monomial Ideals</em> (Spring 2026)
 * **Purdue Student Commutative Algebra Seminar:**
-  * <em>Licci and Glicci Monomial Ideals</em> - Fall 2025
-  * <em>Canonical Modules and their Traces</em> – Spring 2025
-  * <em>Stanley Reisner Ideals and Polarization</em> – Spring 2025
-  * Title: <em>Linkage and Residual Intersections</em> – Fall 2024
+  * <em>Licci and Glicci Monomial Ideals</em> (Fall 2025)
+  * <em>Canonical Modules and their Traces</em> (Spring 2025)
+  * <em>Stanley Reisner Ideals and Polarization</em> (Spring 2025)
+  * Title: <em>Linkage and Residual Intersections</em> (Fall 2024)
 * **Purdue Student Colloquium**
-  * <em>Graded Algebraic Betti Numbers</em> - Spring 2026
-  * <em>On Gorenstein Liaison</em> – Spring 2025
+  * <em>Graded Algebraic Betti Numbers</em> (Spring 2026)
+  * <em>On Gorenstein Liaison</em> (Spring 2025)
 
 Relevant Posters
 ======
 * **Commutative Algebra and Algebraic Geometry in Milan. Poster Session, 2026** (upcoming)
-  * <em>Linkage and the Watanabe–Yoshida conjecture</em> - Summer 2026
+  * <em>Linkage and the Watanabe–Yoshida conjecture</em> (Summer 2026)
 * **PASCA 2.0 Poster Session, CIMAT 2026**
-  * <em>On Zero-Dimensional Glicci Monomial Ideals </em> - Spring 2026
+  * <em>On Zero-Dimensional Glicci Monomial Ideals </em> (Spring 2026)
 
 Teaching
 ======
