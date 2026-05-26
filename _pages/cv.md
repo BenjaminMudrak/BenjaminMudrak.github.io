@@ -26,24 +26,35 @@ Publications and Preprints
 
 Relevant Talks
 ======
+* **Commutative Algebra and Algebraic Geometry in Milan. Poster Session, 2026** (upcoming)
+  * Title: <em>Linkage and the Watanabe–Yoshida conjecture</em>
+* **PASCA 2.0 Poster Session, CIMAT 2026**
+  * Title: <em>On Zero-Dimensional Glicci Monomial Ideals </em>
 * **AMS Special Session: <em>Combinatorial and Positive Characteristic Techniques in Commutative Algebra</em>, NDSU 2026**
-  * <em>On Zero-Dimensional Glicci Monomial Ideals</em>
+  * Title: <em>On Zero-Dimensional Glicci Monomial Ideals</em>
 * **Purdue Student Commutative Algebra Seminar:**
-  * <em>Licci and Glicci Monomial Ideals</em> - Fall 2026
+  * <em>Licci and Glicci Monomial Ideals</em> - Fall 2025
   * <em>Canonical Modules and their Traces</em> – Spring 2025
   * <em>Stanley Reisner Ideals and Polarization</em> – Spring 2025
-  * <em>Linkage and Residual Intersections</em> – Fall 2024
-
+  * Title: <em>Linkage and Residual Intersections</em> – Fall 2024
 * **Purdue Student Colloquium**
   * <em>Graded Algebraic Betti Numbers</em> - Spring 2026
   * <em>On Gorenstein Liaison</em> – Spring 2025
-  
+
+Relevant Posters
+======
+* **Commutative Algebra and Algebraic Geometry in Milan. Poster Session, 2026** (upcoming)
+  * <em>Linkage and the Watanabe–Yoshida conjecture</em> - Summer 2026
+* **PASCA 2.0 Poster Session, CIMAT 2026**
+  * <em>On Zero-Dimensional Glicci Monomial Ideals </em> - Spring 2026
 
 Teaching
 ======
 * **Instructor of Record**
-  * Calculus 1 (MA 16010) – Purdue University (Fall 2023)
+  * Abstract Algebra Qualifying Exam Prep Course (MA 598) - Purdue University (Summer 2026)
   * Math as a Profession and a Discipline (MA 108) - Purdue University (Fall 2025)
+  * Calculus 1 (MA 16010) – Purdue University (Fall 2023)
+
     
 * **Recitation Instructor**
   * Quantitative Reasoning (MA 1555) - Purdue University (Spring 2026)
@@ -74,6 +85,7 @@ Service
 
 Conferences & Workshops
 ======
+* PASCA 2.0: Pan-American School in Commutative Algebra - Centro de Investigación en Matemáticas (CIMAT) (Summer 2026)
 * AMS Sectional: Special Session on Combinatorial and Positive Characteristic Methods in Commutative Algebra - North Dakota State University (Spring 2026)
 * KUMUNU 2025 - University of Missouri (Fall 2025)
 * Macaulay2 Workshop: Madison 2025 – University of Wisconsin, Madison (Summer 2025)
