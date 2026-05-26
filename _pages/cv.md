@@ -26,10 +26,6 @@ Publications and Preprints
 
 Relevant Talks
 ======
-* **Commutative Algebra and Algebraic Geometry in Milan. Poster Session, 2026** (upcoming)
-  * Title: <em>Linkage and the Watanabe–Yoshida conjecture</em> (Summer 2026)
-* **PASCA 2.0 Poster Session, CIMAT 2026**
-  * Title: <em>On Zero-Dimensional Glicci Monomial Ideals </em> (Spring 2026)
 * **AMS Special Session: <em>Combinatorial and Positive Characteristic Techniques in Commutative Algebra</em>, NDSU 2026**
   * Title: <em>On Zero-Dimensional Glicci Monomial Ideals</em> (Spring 2026)
 * **Purdue Student Commutative Algebra Seminar:**
@@ -86,6 +82,7 @@ Service
 Conferences & Workshops
 ======
 * PASCA 2.0: Pan-American School in Commutative Algebra - Centro de Investigación en Matemáticas (CIMAT) (Summer 2026)
+* 
 * AMS Sectional: Special Session on Combinatorial and Positive Characteristic Methods in Commutative Algebra - North Dakota State University (Spring 2026)
 * KUMUNU 2025 - University of Missouri (Fall 2025)
 * Macaulay2 Workshop: Madison 2025 – University of Wisconsin, Madison (Summer 2025)
