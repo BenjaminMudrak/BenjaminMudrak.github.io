@@ -82,7 +82,6 @@ Service
 Conferences & Workshops
 ======
 * PASCA 2.0: Pan-American School in Commutative Algebra - Centro de Investigación en Matemáticas (CIMAT) (Summer 2026)
-* 
 * AMS Sectional: Special Session on Combinatorial and Positive Characteristic Methods in Commutative Algebra - North Dakota State University (Spring 2026)
 * KUMUNU 2025 - University of Missouri (Fall 2025)
 * Macaulay2 Workshop: Madison 2025 – University of Wisconsin, Madison (Summer 2025)
