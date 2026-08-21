@@ -52,7 +52,8 @@ Teaching
   * Calculus 1 (MA 16010) – Purdue University (Fall 2023)
 
     
-* **Recitation Instructor**
+* **Teaching Assistant**
+  * Abstract Algebra Problem Session (MA 598) - Purdue University (Fall 2026)
   * Quantitative Reasoning (MA 1555) - Purdue University (Spring 2026)
   * Calculus 2 (MA 162) – Purdue University (Fall 2021, Spring 2022)
   * Linear Algebra and ODEs (MA 262) – Purdue University (Fall 2022, Spring 2023)
@@ -81,6 +82,8 @@ Service
 
 Conferences & Workshops
 ======
+* Teaching Higher Category Theory with Computers - ICERM at Brown University (Summer 2026)
+* Commutative Algebra and Algebraic Geometry in Milan 2026 (CAAG26) - Politecnico Di Milano (Summer 2026)
 * PASCA 2.0: Pan-American School in Commutative Algebra - Centro de Investigación en Matemáticas (CIMAT) (Summer 2026)
 * NSF-CBMS Conference: Strong Matrix Properties & the Inverse Eigenvalue Problem - Eastern Michigan University (Spring 2026)
 * AMS Sectional: Special Session on Combinatorial and Positive Characteristic Methods in Commutative Algebra - North Dakota State University (Spring 2026)
