@@ -13,7 +13,7 @@ I am currently a Mathematics Ph.D. Candidate at Purdue University. My advisor is
 
 My main research interest is in commutative algebra and algebraic geometry. Specifically, I enjoy studying linkage and G-linkage, combinatorial commutative algebra, and related topics. When not doing math, I spend most of my time developing (and implementing) new and exciting ways to annoy my cat, Calliope.
 
-I am also co-organizing [Ideal Conversations](https://sites.google.com/view/ideal-conversations/home) (the Purdue Student Commutative Algebra Seminar) and the Purdue Bridge to Research Seminar. Information about Purdue math seminars can be found here: [Purdue Math Seminars](https://sites.google.com/site/pumareps/seminars). 
+I am also a co-organizer for [Ideal Conversations](https://sites.google.com/view/ideal-conversations/home) (the Purdue Student Commutative Algebra Seminar). Information about Purdue math seminars can be found here: [Purdue Math Seminars](https://sites.google.com/site/pumareps/seminars). 
 
 During the Fall 2026 semester, I will be running the problem sessions for the bridge MA 503 (Abstract Algebra) course. If you are a student in this class, all relevant information and important course-communications may be found on the course's Brightspace page. 
 
