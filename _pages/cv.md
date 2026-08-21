@@ -71,7 +71,7 @@ Mentoring
 
 Service
 ======
-* Graduate Curriculum and Academic Policy **Representative** - Purdue University (Fall 2026)
+* Graduate Curriculum and Academic Policy Committee **Graduate Representative** - Purdue University (Fall 2026)
 * Teaching Assistant Evaluation **Panelist** - Purdue University (Fall 2025)
 * AMS Graduate Student Chapter **President** - Purdue University (Fall 2025 - Spring 2026)
 * Math Department **Graduate Representative** - Purdue University (Summer 2025 - Spring 2026) 
