@@ -15,7 +15,7 @@ My main research interest is in commutative algebra and algebraic geometry. Spec
 
 Since Fall of 2025, I have been a co-organizer of [Ideal Conversations](https://sites.google.com/view/ideal-conversations/home) (the Purdue Student Commutative Algebra Seminar). Information about Purdue math seminars can be found here: [Purdue Math Seminars](https://sites.google.com/site/pumareps/seminars). During the 2026/2027 academic year, I will also be serving as the math department's graduate representative on the Purdue Graduate Curriculum and Academic Policy Committee.
 
-During the Fall 2026 semester, I will be running the problem sessions for the bridge MA 503 (Abstract Algebra) course. If you are a student in this class, all relevant information and important course-communications may be found on the course's Brightspace page. 
+During the Fall 2026 semester, I will be running the problem sessions for the bridge Abstract Algebra course (MA 503). If you are a student in this class, all relevant information and important course-communications may be found on the course's Brightspace page. 
 
 If you are interested in talking math, feel free to reach out! My contact information can be found on this page.
 
