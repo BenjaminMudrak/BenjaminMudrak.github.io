@@ -29,6 +29,7 @@ Relevant Talks
 * **AMS Special Session: <em>Combinatorial and Positive Characteristic Techniques in Commutative Algebra</em>, NDSU 2026**
   * Title: <em>On Zero-Dimensional Glicci Monomial Ideals</em> (Spring 2026)
 * **Purdue Student Commutative Algebra Seminar:**
+  * <em>Linkage and the Watanabe-Yoshida Conjecture</em> (Fall 2026)
   * <em>Licci and Glicci Monomial Ideals</em> (Fall 2025)
   * <em>Canonical Modules and their Traces</em> (Spring 2025)
   * <em>Stanley Reisner Ideals and Polarization</em> (Spring 2025)
@@ -50,7 +51,6 @@ Teaching
   * Abstract Algebra Qualifying Exam Prep Course (MA 598) - Purdue University (Summer 2026)
   * Math as a Profession and a Discipline (MA 108) - Purdue University (Fall 2025)
   * Calculus 1 (MA 16010) – Purdue University (Fall 2023)
-
     
 * **Teaching Assistant**
   * Abstract Algebra Problem Session (MA 598) - Purdue University (Fall 2026)
@@ -65,6 +65,7 @@ Teaching
 
 Mentoring
 ======
+* Purdue Experimental Math Lab **Graduate Mentor** <em>An Investigation into Some Counting Sequences</em>. Mentees: Christian Cheng, Naisha Sarna, Junhyuck Jang. Faculty Mentor: Prof. Irena Swanson. (Spring 2026)
 * Purdue Experimental Math Lab **Graduate Mentor** <em>Combinatorics of Cyclic and Abelian Group Actions</em>. Mentees: Carson Gull, Josh Park, Arthur Illidge. Faculty Mentor: Prof. Shaver Phagan. (Spring 2026)
 * Purdue Experimental Math Lab **Graduate Mentor** <em>Learning Bridge Numbers of Knots</em>. Mentees: Anand Shanker, Shawanwit Poomsa-ad. Faculty Mentor: Prof. Thi Hahn Vo. (Fall 2025)
 * Purdue Directed Reading Program **Mentor**: <em>Graded Betti Numbers of Ideals</em>. Mentee: Josh Park. (Fall 2025 - Spring 2026)
