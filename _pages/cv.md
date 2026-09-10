@@ -48,24 +48,26 @@ Relevant Posters
 Teaching
 ======
 * **Instructor of Record**
+  * Abstract Algebra Problem Solving Seminar (MA 598) - Purdue University (Fall 2026)
   * Abstract Algebra Qualifying Exam Prep Course (MA 598) - Purdue University (Summer 2026)
   * Math as a Profession and a Discipline (MA 108) - Purdue University (Fall 2025)
   * Calculus 1 (MA 16010) – Purdue University (Fall 2023)
     
 * **Teaching Assistant**
-  * Abstract Algebra Problem Session (MA 598) - Purdue University (Fall 2026)
   * Quantitative Reasoning (MA 1555) - Purdue University (Spring 2026)
   * Calculus 2 (MA 162) – Purdue University (Fall 2021, Spring 2022)
   * Linear Algebra and ODEs (MA 262) – Purdue University (Fall 2022, Spring 2023)
 
 * **Grader**
+  * Abstract Algebra (MA 503) - Purdue University (Fall 2026)
   * Linear Algebra (MA 511) – Purdue University (Summer 2023, Spring 2025)
   * Commutative Algebra (MA 557) – Purdue University (Fall 2024)
   * An Introduction To Proof Through Real Analysis (MA 301) - Purdue University (Fall 2025)
 
 Mentoring
 ======
-* Purdue Experimental Math Lab **Graduate Mentor** <em>An Investigation into Some Counting Sequences</em>. Mentees: Christian Cheng, Naisha Sarna, Junhyuck Jang. Faculty Mentor: Prof. Irena Swanson. (Spring 2026)
+* Purdue Directed Reading Program **Mentor** <em>Commutative Algebra through Macaulay2</em>. Mentee: Artem Kolomiiets. Co-mentor: Jelena Mojsilovic. (Fall 2026)
+* Purdue Experimental Math Lab **Graduate Mentor** <em>An Investigation into Some Counting Sequences</em>. Mentees: Christian Cheng, Naisha Sarna, Junhyuck Jang. Faculty Mentor: Prof. Irena Swanson. (Fall 2026)
 * Purdue Experimental Math Lab **Graduate Mentor** <em>Combinatorics of Cyclic and Abelian Group Actions</em>. Mentees: Carson Gull, Josh Park, Arthur Illidge. Faculty Mentor: Prof. Shaver Phagan. (Spring 2026)
 * Purdue Experimental Math Lab **Graduate Mentor** <em>Learning Bridge Numbers of Knots</em>. Mentees: Anand Shanker, Shawanwit Poomsa-ad. Faculty Mentor: Prof. Thi Hahn Vo. (Fall 2025)
 * Purdue Directed Reading Program **Mentor**: <em>Graded Betti Numbers of Ideals</em>. Mentee: Josh Park. (Fall 2025 - Spring 2026)
