@@ -74,6 +74,7 @@ Mentoring
 
 Service
 ======
+* AMS Graduate Student Chapter **Treasurer** - Purdue University (Fall 2026 - Spring 2027)
 * Graduate Curriculum and Academic Policy Committee **Graduate Representative** - Purdue University (Fall 2026)
 * Teaching Assistant Evaluation **Panelist** - Purdue University (Fall 2025)
 * AMS Graduate Student Chapter **President** - Purdue University (Fall 2025 - Spring 2026)
