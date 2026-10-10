@@ -40,10 +40,12 @@ Relevant Talks
 
 Relevant Posters
 ======
-* **Commutative Algebra and Algebraic Geometry in Milan. Poster Session, 2026** (upcoming)
+* **KUMUNU 2026 - University of Kansas**
+  * <em>Essential Deformation and the Watanabe-Yoshida conjecture</em> (Fall 2026)
+* **Commutative Algebra and Algebraic Geometry in Milan - Politecnico di Milano**
   * <em>Linkage and the Watanabe–Yoshida conjecture</em> (Summer 2026)
-* **PASCA 2.0 Poster Session, CIMAT 2026**
-  * <em>On Zero-Dimensional Glicci Monomial Ideals </em> (Spring 2026)
+* **PASCA 2.0 - Centro de Investigación en Mathemáticas (CIMAT)**
+  * <em>On Zero-Dimensional Glicci Monomial Ideals </em> (Summer 2026)
 
 Teaching
 ======
