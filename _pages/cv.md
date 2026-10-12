@@ -16,6 +16,8 @@ Education
 
 Publications and Preprints
 ======
+**On a Combinatorial Characterization of Abelian Group Actions**. C. Gull, A. Illidge, **B. Mudrak**, J. Park, S. Phagan. (Submitted. Available on arXiv).
+
 **On Zero-Dimensional Glicci Monomial Ideals.** **B. Mudrak**. (Submitted. Available on arXiv). 
 
 **Cp-Mackey Functors in Macaulay2.** T. Brazelton, D. Chan, **B. Mudrak**, B. Spitz, C. Vogeli, C. Wang, M. Zeng, S. Zotine. <em>Journal of Software for Algebra and Geometry,</em> to appear.
@@ -89,6 +91,7 @@ Service
 
 Conferences & Workshops
 ======
+* KUMUNU 2026 - University of Kansas (Fall 2026)
 * Teaching Higher Category Theory with Computers - ICERM at Brown University (Summer 2026)
 * Commutative Algebra and Algebraic Geometry in Milan 2026 (CAAG26) - Politecnico Di Milano (Summer 2026)
 * PASCA 2.0: Pan-American School in Commutative Algebra - Centro de Investigación en Matemáticas (CIMAT) (Summer 2026)
