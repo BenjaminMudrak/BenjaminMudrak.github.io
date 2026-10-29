@@ -110,6 +110,7 @@ Conferences & Workshops
 
 Awards & Memberships
 ======
+* <em>Excellence in Service TA Award</em> - Purdue University (Spring 2027)
 * <em>Graduate Summer Research Grant</em> - Purdue University (Summer 2025)
 * <em>American Mathematical Society</em> (AMS) **Member** (Fall 2022 - Present)
 * <em>Phi Betta Kappa</em> **Member** (Spring 2021 - Present)
