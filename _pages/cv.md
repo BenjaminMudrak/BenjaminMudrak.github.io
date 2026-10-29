@@ -106,12 +106,12 @@ Conferences & Workshops
 * Micro Teaching in Applied Calculus Workshop – Purdue University (Spring 2022)
 * Getting Ready to Teach Your Own Class Workshop – Purdue University (Spring 2022)
 * Matrix Analysis REU – College of William & Mary (Summer 2020)
-* MAA MathFest Cincinnati – Cincinnati, Ohio (Summer 2019)
 
 Awards & Memberships
 ======
 * <em>Excellence in Service TA Award</em> - Purdue University (Spring 2027)
 * <em>Graduate Summer Research Grant</em> - Purdue University (Summer 2025)
+* <em>Distinguished Student Leadership Award</em> - KSU Department of Mathematics (Spring 2021)
 * <em>American Mathematical Society</em> (AMS) **Member** (Fall 2022 - Present)
 * <em>Phi Betta Kappa</em> **Member** (Spring 2021 - Present)
 * <em>Pi Mu Epsilon</em> **Member** (Spring 2019 - Present)
