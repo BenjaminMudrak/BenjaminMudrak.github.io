@@ -88,6 +88,14 @@ Service
 * Student Colloquium **Organizer** – Purdue University (Fall 2024 – Spring 2025)
 * Graduate Student Government **Senator** – Purdue University (Spring 2022)
 
+Awards & Memberships
+======
+* <em>Excellence in Service TA Award</em> - Purdue University (Spring 2027)
+* <em>Graduate Summer Research Grant</em> - Purdue University (Summer 2025)
+* <em>Distinguished Student Leadership Award</em> - KSU Department of Mathematics (Spring 2021)
+* <em>American Mathematical Society</em> (AMS) **Member** (Fall 2022 - Present)
+* <em>Phi Betta Kappa</em> **Member** (Spring 2021 - Present)
+* <em>Pi Mu Epsilon</em> **Member** (Spring 2019 - Present)
 
 Conferences & Workshops
 ======
@@ -107,18 +115,12 @@ Conferences & Workshops
 * Getting Ready to Teach Your Own Class Workshop – Purdue University (Spring 2022)
 * Matrix Analysis REU – College of William & Mary (Summer 2020)
 
-Awards & Memberships
-======
-* <em>Excellence in Service TA Award</em> - Purdue University (Spring 2027)
-* <em>Graduate Summer Research Grant</em> - Purdue University (Summer 2025)
-* <em>Distinguished Student Leadership Award</em> - KSU Department of Mathematics (Spring 2021)
-* <em>American Mathematical Society</em> (AMS) **Member** (Fall 2022 - Present)
-* <em>Phi Betta Kappa</em> **Member** (Spring 2021 - Present)
-* <em>Pi Mu Epsilon</em> **Member** (Spring 2019 - Present)
 
+  
+<!---
 Relevant Graduate Coursework
 ======
-* **Purdue University**
+ * **Purdue University**
   * Introduction to Differential Geometry and Topology (MA 562)
   * Introduction to Algebraic Topology (MA 572)
   * Introduction to Abstract Algebra (MA 553)
@@ -138,7 +140,9 @@ Relevant Graduate Coursework
   * Abstract Algebra 2 (MA 61052)
   * Functions of a Real Variable 1 (MA 62051)
   * Functions of a Real Variable 2 (MA 62052)
- 
-Programming
+-->
+
+
+Coding Languages
 ======
-Macaulay2, LaTeX, R, C++
+Macaulay2, R, C++
